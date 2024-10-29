@@ -38,5 +38,5 @@
 - 私の指示がわかりにくくて動作してくれなかったんだね、と納得できます。
 
 - [参考記事]
-  - 1. https://zero-plus.io/media/make-a-form/　←フォーム
-  - 2. https://tamatuf.net/html-css/css-hover-button/　←ホバー
+  - 1. https://zero-plus.io/media/make-a-form/　
+  - 2. https://tamatuf.net/html-css/css-hover-button/　
