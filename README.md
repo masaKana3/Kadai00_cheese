@@ -8,7 +8,7 @@
 
 ## ③DEMO
 
-デプロイしている場合はURLを記入（任意）
+https://github.com/masaKana3/Kadai00_cheese.git
 
 ## ④作ったアプリケーション用のIDまたはPasswordがある場合
 
