@@ -8,11 +8,11 @@
 
 ## ③DEMO
 
-https://github.com/masaKana3/Kadai00_cheese.git
+
 
 ## ④作ったアプリケーション用のIDまたはPasswordがある場合
 
-なし
+ID,PW なし
 
 ## ⑤工夫した点・こだわった点
 
